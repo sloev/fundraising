@@ -9,7 +9,7 @@ I personally had benefited a lot from the "tribe" of people on nts chat and that
 I wanted to figure out if other people shared my sentiment and see if i could find a way to express this in the form of currency transmitted to Charlie.
 
 
-### Creation of campaign
+### Creation of campaign (17 March 2021)
 
 While listening to [nts.live](https://nts.live) and being on [their chat system](https://www.nts.live/chat) i announced that i thought we should make a fundraiser for the radio host Charlie Bones to show gratitude for his radio show ["The Do!! You!!! Breakfast Show"](https://www.nts.live/shows/the-do-you-breakfast-show).
 
@@ -90,4 +90,11 @@ The main question i answered was how i could prove i wasnt pocketing the money m
 >my email is in the document, you can contact me there if you have questions you wanna ask in private as well.
 
 
-### 
+### Reached goal (18 march 2021 18:38)
+
+The fundraise reached 100% 🎉
+
+I wrote on the facebook page, LinkedIn, nts chat and on the gofundme page.
+
+I then wrote to tell Charlie about it and tell him the expected date where Stripe would be able to transfer the funds.
+
