@@ -100,3 +100,8 @@ I wrote on the facebook page, LinkedIn, nts chat and on the gofundme page.
 
 I then wrote to tell Charlie about it and tell him the expected date where Stripe would be able to transfer the funds.
 
+### Lessons learned
+
+1. I would have liked if i had confirmed with Charlie before i published the gofundme campaign.
+
+
