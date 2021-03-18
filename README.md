@@ -1,6 +1,7 @@
 # fundraising
 my experiences in fundraising
 
+![Thank you Charlie for being a light in 2020](https://github.com/sloev/fundraising/raw/main/charlie.png)
 ## 1. Thank you Charlie for being a light in 2020
 
 ### Motivation
