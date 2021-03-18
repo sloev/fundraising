@@ -78,7 +78,9 @@ I used the LinkedIn post as my main copy for the fundraiser and copied it into t
 I made an update post on the gofundme page with a link to the google transparency doc.
 
 I finally got the address for the facebook group of the "The Do!! You!!! Breakfast Show", i went there and saw that there already were some posts regarding the fundraiser plus some questions about it.
+
 I addressed the questions and made sure to copy the answers to the google transparency doc as well as the gofundme page as updates.
+
 The main question i answered was how i could prove i wasnt pocketing the money myself, i answered this:
 
 >basically my stragedy has been:
