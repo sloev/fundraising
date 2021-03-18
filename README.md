@@ -47,4 +47,41 @@ kind regards johannes valbjørn (supernihil on chat)
 
 A few moments later i got a reply from Charlie where he confirmed that he was ok with me making the crowdfund campaign, I wrote it in the google doc log.
 
+### Figuring out payment
+
+I wrote Charlie an email where i presented a few options for how to solve the payment issue:
+```
+1. i could organize with nts so i transfer to them and they relay it to you (in this way you dont need to share personal info with me)
+2. we could arrange something through paypal (in this way you only leak the info you normally leak when engaging in ebay stuff)
+3. you can give me your bank information and i make a direct deposit (this is by far the most insecure option, which even though the easiest, has a risk of data leakage)
+```
+After a while he responded with the option he liked the best and i started to setup Stripe (gofundme uses Stripe for processing payments) to figure out a way to easily relay the fundings to Charlie.
+
+### Social media
+
+I went to LinkedIn and wrote [a post about the fundraiser](https://www.linkedin.com/posts/activity-6777980048096935937-rsdl) since my idea was that a lot of people were posiitively influenced by his show and some might wanna be offered the option of "paying back", some of these people might however not hang around in the nts chat like me.
+
+I used the LinkedIn post as my main copy for the fundraiser and copied it into the gofundme page, it read:
+
+```
+In 2020 his program "The Do!! You!!! Breakfast Show" on independent internet radio nts.live became a goto for pandemic cabin fever not only for me but for thousands of others
+(see the article on the theface.com about his show an the pandemic: https://theface.com/music/charlie-bones-do-you-breakfast-show-nts-london)
+
+
+The chat system on nts.live radio was glowing up with as much as 20 messages per second every day Charlie went on at 10:00 (DK time), from the messages you saw people looking for companionship in a time where loneliness were peaking in a way not seen for years.
+
+Charlie's honesty about his own struggles in these times further increased peoples ability to relate and not feel alone with their issues.
+
+And his music selection is beyond compare, which often prompts the chat to explode in "big vibes" messages :-)
+
+Its now 2021 and i thought it would be a great idea to give back to Charlie for making 2020 less ruff with his light tower of funk on nts.live
+
+Please help me provide some gratitude in form of currency to this guy
+```
+
+I made an update post on the gofundme page with a link to the google transparency doc.
+
+I finally got the address for the facebook group of the "The Do!! You!!! Breakfast Show", i went there and saw that there already were some posts regarding the fundraiser plus some questions about it.
+I addressed the questions and made sure to copy the answers to the google transparency doc as well as the gofundme page as updates.
+
 ### 
