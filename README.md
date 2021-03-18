@@ -25,36 +25,35 @@ Afterwards i contacted a few email adresses i found on nts.live as well as their
 
 Here is the first email i send:
 
-```
-Hi Charlie, sorry to interrupt you (CC'ing flo@REDACTED_HERE according to advice from nts twitter)
+>Hi Charlie, sorry to interrupt you (CC'ing flo@REDACTED according to advice from nts twitter)
+>
+>We are a bunch of fans hanging out in the chat and being thankful for your company on airwave during last years pandemic.
+>
+>We wanna make a gofundme to show our gratitude so i created one:
+>gf.me/u/zm636h
+>i have invited you to it from gofundme.
+>
+>i know it might be a bit overwhelming but we mean it sincerely.
+>i am keeping a full transparency on the creation and progress of the fundraiser here:
+>https://docs.google.com/document/d/1pm4J1krGMiE7V1OrtNwdJ6tZw6qfi0pxsvyjzcLKx0g/edit?usp=sharing
+>
+>if you for any reason (that you dont need to disclose) find that you dont want this gofundme happening please write me and i will terminate it and pay back all fundings to fundraisers, plus write in the channel that i have done so in agreement with you.
+>
+>I hope i am not interfering with your day in a negative way.
+>
+>kind regards johannes valbjørn (supernihil on chat)
 
-We are a bunch of fans hanging out in the chat and being thankful for your company on airwave during last years pandemic.
-
-We wanna make a gofundme to show our gratitude so i created one:
-gf.me/u/zm636h
-i have invited you to it from gofundme.
-
-i know it might be a bit overwhelming but we mean it sincerely.
-i am keeping a full transparency on the creation and progress of the fundraiser here:
-https://docs.google.com/document/d/1pm4J1krGMiE7V1OrtNwdJ6tZw6qfi0pxsvyjzcLKx0g/edit?usp=sharing
-
-if you for any reason (that you dont need to disclose) find that you dont want this gofundme happening please write me and i will terminate it and pay back all fundings to fundraisers, plus write in the channel that i have done so in agreement with you.
-
-I hope i am not interfering with your day in a negative way.
-
-kind regards johannes valbjørn (supernihil on chat)
-```
 
 A few moments later i got a reply from Charlie where he confirmed that he was ok with me making the crowdfund campaign, I wrote it in the google doc log.
 
 ### Figuring out payment
 
 I wrote Charlie an email where i presented a few options for how to solve the payment issue:
-```
-1. i could organize with nts so i transfer to them and they relay it to you (in this way you dont need to share personal info with me)
-2. we could arrange something through paypal (in this way you only leak the info you normally leak when engaging in ebay stuff)
-3. you can give me your bank information and i make a direct deposit (this is by far the most insecure option, which even though the easiest, has a risk of data leakage)
-```
+
+>1. i could organize with nts so i transfer to them and they relay it to you (in this way you dont need to share personal info with me)
+>2. we could arrange something through paypal (in this way you only leak the info you normally leak when engaging in ebay stuff)
+>3. you can give me your bank information and i make a direct deposit (this is by far the most insecure option, which even though the easiest, has a risk of data leakage)
+
 After a while he responded with the option he liked the best and i started to setup Stripe (gofundme uses Stripe for processing payments) to figure out a way to easily relay the fundings to Charlie.
 
 ### Social media
@@ -63,25 +62,32 @@ I went to LinkedIn and wrote [a post about the fundraiser](https://www.linkedin.
 
 I used the LinkedIn post as my main copy for the fundraiser and copied it into the gofundme page, it read:
 
-```
-In 2020 his program "The Do!! You!!! Breakfast Show" on independent internet radio nts.live became a goto for pandemic cabin fever not only for me but for thousands of others
-(see the article on the theface.com about his show an the pandemic: https://theface.com/music/charlie-bones-do-you-breakfast-show-nts-london)
-
-
-The chat system on nts.live radio was glowing up with as much as 20 messages per second every day Charlie went on at 10:00 (DK time), from the messages you saw people looking for companionship in a time where loneliness were peaking in a way not seen for years.
-
-Charlie's honesty about his own struggles in these times further increased peoples ability to relate and not feel alone with their issues.
-
-And his music selection is beyond compare, which often prompts the chat to explode in "big vibes" messages :-)
-
-Its now 2021 and i thought it would be a great idea to give back to Charlie for making 2020 less ruff with his light tower of funk on nts.live
-
-Please help me provide some gratitude in form of currency to this guy
-```
+>In 2020 his program "The Do!! You!!! Breakfast Show" on independent internet radio nts.live became a goto for pandemic cabin fever not only for me but for thousands of others
+>(see the article on the theface.com about his show an the pandemic: https://theface.com/music/charlie-bones-do-you-breakfast-show-nts-london)
+>
+>The chat system on nts.live radio was glowing up with as much as 20 messages per second every day Charlie went on at 10:00 (DK time), from the messages you saw people looking for companionship in a time where loneliness were peaking in a way not seen for years.
+>
+>Charlie's honesty about his own struggles in these times further increased peoples ability to relate and not feel alone with their issues.
+>
+>And his music selection is beyond compare, which often prompts the chat to explode in "big vibes" messages :-)
+>
+>Its now 2021 and i thought it would be a great idea to give back to Charlie for making 2020 less ruff with his light tower of funk on nts.live
+>
+>Please help me provide some gratitude in form of currency to this guy:
 
 I made an update post on the gofundme page with a link to the google transparency doc.
 
 I finally got the address for the facebook group of the "The Do!! You!!! Breakfast Show", i went there and saw that there already were some posts regarding the fundraiser plus some questions about it.
 I addressed the questions and made sure to copy the answers to the google transparency doc as well as the gofundme page as updates.
+The main question i answered was how i could prove i wasnt pocketing the money myself, i answered this:
+
+>basically my stragedy has been:
+>1. share as much personal information (as i am comfortable with) in order to validate my identity as much as possible
+>2. contact as many people at nts as i found relevant in order to tell of the fundraiser plus leave my contact details if they need to contact me etc.
+>3. be transparent (in the open google doc) about my actions and communications (without spilling personal info) so you can follow a long
+>
+>if you have more questions please ask!
+>my email is in the document, you can contact me there if you have questions you wanna ask in private as well.
+
 
 ### 
